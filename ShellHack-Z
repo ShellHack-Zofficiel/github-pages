@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Titre de la page</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+   <header>
+   <div class="header-content">
+       <img src="logo.png" alt="logo du site" class="lg">
+       <div class="text-header">
+           <h1>ShellHack-Z</h1>
+           <p>
+               Bienvenue sur le site officiel de ShellHack-Z où vous apprendrez à coder et hacker via votre téléphone.<br />
+               <strong>NB: Certaines choses nécessiteront un PC.</strong>
+           </p>
+       </div>
+   </div>
+</header>
+   <div class="div">
+   <section>
+       <h2>Quels sont les langages que vous apprendriez</h2>
+       <ol class="ol">
+           <li>Python</li>
+           <li>Html</li>
+           <li>Css</li>
+           <li>java script</li>
+           <li>C++</li>
+           <li>C#</li>
+           Et plus...
+       </ol>
+   </section>
+   <section>
+       <h2>ShellHack-Z c'est aussi une communauté</h2>
+       <p>
+           Wep ShellHack-Z c'est une communauté, même une très grande communauté de développement(web, mobile, logiciels...) et d'hacker passionné(black hat et grey hat).Cette  communauté vous pouvez la rejoindre.<br /><br />
+           <a href="https://chat.whatsapp.com/FZVa11c1co2A5bNfRDZOHV" class="bt_1">Rejoindre la communauté</a>
+           </p>     
+   </section>
+   <section>
+       <p>
+           <h2>Devenez élève de ShellHack-Z</h2>
+  En devenant élève à ShellHack-Z vous pourrez rejoindre une communauté et apprendre en suivant des tutos gratuit et plus encore avec un suivie de votre progresser par votre enseignant.Pour plus d'info cliquez <a href="info.html">ici</a><br /><br />
+  <a href="class.html" class="bt_1">DEVENIR ÉLÈVE</a>
+       </p>
+   </section>
+   </div>
+   <footer>
+       <h2>ShellHack-Z</h2>
+       <div>Nos règle 
+          <ul class="ol">
+              <li><a href="uticondi.html">Condition d'utilisation</a></li>
+              <li><a href="policonfi.html">Politique de confidentialité</a></li>
+              <li><a href="Regleinte.html">Reglement interieur</a></li>
+          </ul> 
+          Nous joindre
+          <ul class="ol">
+              <li><a href="yannkouame735@gmail.com">assistance.ShellHack@gmail.com</a></li>
+              <li><a href="tel:+2550596567006">Nous contacter par téléphone</a></li>
+              <li><a href="contact.html">Contact</a></li>
+          </ul>
+       </div>
+       <div>
+           Nos partenaires :
+           <ul class="ol">
+               <li>TechEmpire.</li>
+               <li>DevZone.</li>
+               <li>YannGroup for help.</li>      
+           </ul>
+       </div> 
+       <h6>ShellHack-Z @2025-tout droit réservé.</h6>
+   </footer>
+</body>
+</html>
